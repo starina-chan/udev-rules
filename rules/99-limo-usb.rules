@@ -1,0 +1,1 @@
+KERNEL=="ttyUSB*", KERNELS=="*-7.4*", ATTRS{idVendor}=="10c4", ATTRS{idProduct}=="ea60", ATTRS{devpath}=="7.4", MODE:="0777", SYMLINK+="ttylimo"
